@@ -5,6 +5,9 @@ let msgContainer = document.querySelector(".msg-container");
 let msg = document.querySelector("#msg");
 
 let turnO = true;  // PlayerO, PlayerX
+
+
+
 let count = 0; //for Draw condition
 
 const winPatterns = [
